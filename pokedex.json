@@ -1,0 +1,47 @@
+[
+    {
+        "name": "wartortle",
+        "types": [
+            "water"
+        ],
+        "stats": {
+            "hp": 59,
+            "attack": 63,
+            "defense": 80,
+            "special-attack": 65,
+            "special-defense": 80,
+            "speed": 58
+        },
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/wartortle.png"
+    },
+    {
+        "name": "raichu",
+        "types": [
+            "electric"
+        ],
+        "stats": {
+            "hp": 60,
+            "attack": 90,
+            "defense": 55,
+            "special-attack": 90,
+            "special-defense": 80,
+            "speed": 110
+        },
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/raichu.png"
+    },
+    {
+        "name": "magikarp",
+        "types": [
+            "water"
+        ],
+        "stats": {
+            "hp": 20,
+            "attack": 10,
+            "defense": 55,
+            "special-attack": 15,
+            "special-defense": 20,
+            "speed": 80
+        },
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/magikarp.png"
+    }
+]

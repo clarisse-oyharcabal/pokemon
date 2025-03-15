@@ -1,0 +1,2 @@
+pygame==2.5.2 # to manage the game's graphics and animations.
+requests==2.31.0  #to interact with the PokeAPI and retrieve Pokémon information.

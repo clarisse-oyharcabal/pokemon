@@ -1,0 +1,184 @@
+{
+"pokemon": [
+    {
+        "name": "pichu",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 40,
+        "defense": 15,
+        "type": "electric",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "name": "pikachu",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 55,
+        "defense": 40,
+        "type": "electric",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "name": "Raichu",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 90,
+        "defense": 55,
+        "type": "electric",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "name": "Sandshrew",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 75,
+        "defense": 85,
+        "type": "ground",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "name": "Sandslash",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 100,
+        "defense": 110,
+        "type": "ground",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "name": "Vulpix",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 41,
+        "defense": 40,
+        "type": "fire",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "name": "Ninetales",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 76,
+        "defense": 75,
+        "type": "fire",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "name": "Igglybuff",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 30,
+        "defense": 15,
+        "type": "normal",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "name": "Jigglypuff",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 45,
+        "defense": 20,
+        "type": "normal",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "name": "Wigglytuff",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 70,
+        "defense": 45,
+        "type": "normal",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "name": "Diglett",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 55,
+        "defense": 25,
+        "type": "ground",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "name": "Dugtrio",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 80,
+        "defense": 50,
+        "type": "ground",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "name": "Meowth",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 45,
+        "defense": 35,
+        "type": "normal",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "name": "Persian",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 70,
+        "defense": 60,
+        "type": "normal",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "name": "Psyduck",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 52,
+        "defense": 48,
+        "type": "water",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "name": "Golduck",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 82,
+        "defense": 78,
+        "type": "water",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "name": "Growlithe",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 70,
+        "defense": 45,
+        "type": "fire",
+        "x": 0,
+        "y": 0
+    },
+    {
+        "name": "Arcanine",
+        "life_points": 100,
+        "level": 1,
+        "attack_power": 110,
+        "defense": 80,
+        "type": "fire",
+        "x": 0,
+        "y": 0
+    }
+]
+}
