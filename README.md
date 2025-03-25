@@ -29,7 +29,7 @@ Pokémon Battle est un mini-jeu de combat au tour par tour inspiré des jeux Pok
 ## Combat
 <img src="assets/images/battle.png" width="500" />
 
-## Effets d'attaques
+## Effets d'attaques et points perdus
 <img src="assets/images/effectsattack.png" width="500" />
 
 ## Gagnant
