@@ -76,10 +76,5 @@ python main.py
 
 - Une annonce affiche le gagnant.
 
-  📝 Auteur
-  
-👤 Clarisse Oyharcabal 
-👤 Aicha Chadli
-👤 Andres Montes Zuluaga
 
-📌 Projet réalisé dans un cadre éducatif et pour l’apprentissage de Python et Pygame.
+📌 Projet réalisé dans un cadre éducatif et pour l’apprentissage de Python et Pygame et gestion d'APIs.
