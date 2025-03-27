@@ -66,9 +66,9 @@ python main.py
 
 📌 Exemple d'utilisation
 
-- Le jeu sélectionne deux Pokémon aléatoirement (ex : Pikachu vs Salamèche).
+- Le joueur selectionne un Pokémon et le jeu sélectionne un opposant aléatoirement (ex : Pikachu vs Salamèche).
 
-- Chaque Pokémon attaque à tour de rôle.
+- Chaque Pokémon attaque à tour de rôle (le premier étant celui ayant la plus grande vitesse).
 
 - Les dégâts sont calculés en fonction des statistiques des Pokémon.
   
